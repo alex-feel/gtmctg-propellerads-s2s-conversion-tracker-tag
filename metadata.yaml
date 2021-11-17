@@ -1,5 +1,5 @@
 homepage: "https://github.com/alex-feel/gtmctg-propellerads-s2s-conversion-tracker-tag"
 documentation: "https://github.com/alex-feel/gtmctg-propellerads-s2s-conversion-tracker-tag/blob/main/README.md"
 versions:
-  - sha: f39c8228d5dad3e45b96b22999f17477926edb9a
+  - sha: 2ddf632d3acda9a58c0d6202bb9af4d268ea2cb0
     changeNotes: The very first version
